@@ -396,3 +396,46 @@
   padding-right: 0;
   border-right: none;
 }
+
+/* about us css */
+/* Custom CSS for overlapping images */
+.img-overlap-container {
+  position: relative;
+}
+.img-overlap-container .img-main {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  height: 320px;
+  object-fit: cover;
+  width: 100%;
+}
+.img-overlap-container .img-overlay {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  border-radius: 0.5rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  height: 200px;
+  width: 60%;
+  object-fit: cover;
+  z-index: 10;
+}
+@media (max-width: 576px) {
+  .card-img-top {
+    height: 200px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .card-img-top {
+    height: 220px !important;
+  }
+}
+
+/* products new */
+.card-hover:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
