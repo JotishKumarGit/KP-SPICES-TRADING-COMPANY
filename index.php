@@ -148,7 +148,7 @@
   <!-- Spinner End -->
 
   <!-- Header -->
-<?php include('header.php') ?>
+  <?php include('header.php') ?>
 
   <!-- Carousel Start -->
   <div class="container-fluid p-0 mb-5">
@@ -241,72 +241,72 @@
   <!-- Carousel End -->
 
   <!-- About Start -->
-<div class="container-xxl py-5">
-  <div class="container">
-    <div class="row g-5 align-items-center">
+  <div class="container-xxl py-5">
+    <div class="container">
+      <div class="row g-5 align-items-center">
 
-      <!-- Overlapping Images Section -->
-      <div class="col-lg-6 col-md-12">
-        <div class="img-overlap-container wow fadeIn" data-wow-delay="0.1s">
-          <img src="img/spices_2.webp" alt="Assorted Spices" class="img-fluid rounded" />
-        </div>
-      </div>
-
-      <!-- Compressed Text Section -->
-      <div class="col-lg-6 col-md-12">
-        <h6 class="text-secondary text-uppercase">// About Us //</h6>
-        <h1 class="mb-4">
-          <span class="text-secondary">KP SPICES TRADING COMPANY</span> — Authentic & Premium Spices
-        </h1>
-        <p class="mb-4">
-          KP Spices Trading Company delivers fresh, natural spices sourced from trusted farms worldwide. We offer a wide variety of whole and ground spices, perfect for chefs, homes, and industries.
-        </p>
-
-        <div class="row g-4 mb-3 pb-3">
-          <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-            <div class="d-flex flex-wrap flex-md-nowrap">
-              <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
-                <span class="fw-bold text-secondary">01</span>
-              </div>
-              <div class="ps-3 mt-2 mt-md-0">
-                <h6>100% Natural & Fresh</h6>
-                <span>Sourced directly for unmatched aroma and purity.</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
-            <div class="d-flex flex-wrap flex-md-nowrap">
-              <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
-                <span class="fw-bold text-secondary">02</span>
-              </div>
-              <div class="ps-3 mt-2 mt-md-0">
-                <h6>Variety & Custom Blends</h6>
-                <span>Whole spices, powders, and blends tailored for every taste.</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
-            <div class="d-flex flex-wrap flex-md-nowrap">
-              <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
-                <span class="fw-bold text-secondary">03</span>
-              </div>
-              <div class="ps-3 mt-2 mt-md-0">
-                <h6>Global Exporters</h6>
-                <span>Reliable delivery with trusted customer service worldwide.</span>
-              </div>
-            </div>
+        <!-- Overlapping Images Section -->
+        <div class="col-lg-6 col-md-12">
+          <div class="img-overlap-container wow fadeIn" data-wow-delay="0.1s">
+            <img src="img/spices_2.webp" alt="Assorted Spices" class="img-fluid rounded" />
           </div>
         </div>
 
-        <a href="contact.php" class="btn border border-pill bg-primary text-white py-3 px-5 mt-3">
-          Read More <i class="fa fa-arrow-right ms-3"></i>
-        </a>
+        <!-- Compressed Text Section -->
+        <div class="col-lg-6 col-md-12">
+          <h6 class="text-secondary text-uppercase">// About Us //</h6>
+          <h1 class="mb-4">
+            <span class="text-secondary">KP SPICES TRADING COMPANY</span> — Authentic & Premium Spices
+          </h1>
+          <p class="mb-4">
+            KP Spices Trading Company delivers fresh, natural spices sourced from trusted farms worldwide. We offer a wide variety of whole and ground spices, perfect for chefs, homes, and industries.
+          </p>
+
+          <div class="row g-4 mb-3 pb-3">
+            <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
+              <div class="d-flex flex-wrap flex-md-nowrap">
+                <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
+                  <span class="fw-bold text-secondary">01</span>
+                </div>
+                <div class="ps-3 mt-2 mt-md-0">
+                  <h6>100% Natural & Fresh</h6>
+                  <span>Sourced directly for unmatched aroma and purity.</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
+              <div class="d-flex flex-wrap flex-md-nowrap">
+                <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
+                  <span class="fw-bold text-secondary">02</span>
+                </div>
+                <div class="ps-3 mt-2 mt-md-0">
+                  <h6>Variety & Custom Blends</h6>
+                  <span>Whole spices, powders, and blends tailored for every taste.</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
+              <div class="d-flex flex-wrap flex-md-nowrap">
+                <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
+                  <span class="fw-bold text-secondary">03</span>
+                </div>
+                <div class="ps-3 mt-2 mt-md-0">
+                  <h6>Global Exporters</h6>
+                  <span>Reliable delivery with trusted customer service worldwide.</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <a href="contact.php" class="btn border border-pill bg-primary text-white py-3 px-5 mt-3">
+            Read More <i class="fa fa-arrow-right ms-3"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
-</div>
   <!-- About End -->
 
   <!-- Pro new Start -->
@@ -438,6 +438,82 @@
   </div>
   <!-- end services -->
 
+  <!-- Blog Section -->
+  <section class="blog-section py-5 bg-light">
+    <div class="container">
+
+      <h2 class="section-title text-center">KP Spices Trading Company – Premium Cardamom & Dry Fruits</h2>
+      <p class="text-center mb-5">
+        KP Spices Trading Company is committed to delivering the finest quality spices and dry fruits,
+        sourced from trusted farmers to ensure freshness, purity, and unmatched flavor.
+      </p>
+
+      <div class="row g-4">
+
+        <!-- Blog 1 -->
+        <div class="col-md-4">
+          <div class="card blog-card shadow-sm">
+            <img src="img/Green-Cardamom-Premium-Quality.jpg" class="card-img-top" alt="Green Cardamom">
+            <div class="card-body">
+              <h5 class="card-title">Premium Green Cardamom</h5>
+              <p class="card-text">
+                Our premium-quality Green Cardamom is known for its bold aroma, vibrant color,
+                and rich flavor—ideal for sweets, spice blends, and daily cooking.
+              </p>
+              <a href="#" class="btn btn-success btn-sm">Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Blog 2 -->
+        <div class="col-md-4">
+          <div class="card blog-card shadow-sm">
+            <img src="img/Gayatri-Green-cardamom.png" class="card-img-top" alt="Gayatri Green Cardamom">
+            <div class="card-body">
+              <h5 class="card-title">Gayatri Green Cardamom</h5>
+              <p class="card-text">
+                Gayatri Green Cardamom is a signature product known for its superior grade,
+                handpicked for exceptional purity and strong aromatic essence.
+              </p>
+              <a href="#" class="btn btn-success btn-sm">Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Blog 3 -->
+        <div class="col-md-4">
+          <div class="card blog-card shadow-sm">
+            <img src="img/Badii-elachi.webp" class="card-img-top" alt="Badli Elachi">
+            <div class="card-body">
+              <h5 class="card-title">Badli Elachi</h5>
+              <p class="card-text">
+                Badli Elachi offers rich fragrance and bold seeds, making it a top choice
+                for traditional recipes, sweets, and premium spice blends.
+              </p>
+              <a href="#" class="btn btn-success btn-sm">Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Blog 4 -->
+        <div class="col-md-4">
+          <div class="card blog-card shadow-sm">
+            <img src="img/Dry-fruit.webp" class="card-img-top" alt="Dry Fruits">
+            <div class="card-body">
+              <h5 class="card-title">Dry Fruits Collection</h5>
+              <p class="card-text">
+                Our premium dry fruits are sourced from the best farms to ensure high nutrition,
+                irresistible taste, and long-lasting freshness.
+              </p>
+              <a href="#" class="btn btn-success btn-sm">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end blog sections -->
+
   <!-- Contact Start -->
   <div class="container-xxl py-5">
     <div class="container">
@@ -512,4 +588,4 @@
   <!-- Contact End -->
 
   <!-- footer -->
-   <?php include('footer.php') ?>
+  <?php include('footer.php') ?>

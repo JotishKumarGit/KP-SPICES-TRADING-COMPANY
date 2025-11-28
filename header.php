@@ -49,10 +49,13 @@
             <a href="Gayatri_Green_Cardamom.php" class="dropdown-item">Gayatri Green Cardamom</a>
           </div>
         </div>
-        <!-- <a href="contact.php" class="nav-item nav-link">Contact</a> -->
+        <a href="blog.php" class="nav-item nav-link">Blog</a>
         <a href="contact.php" class="nav-item nav-link">Contact</a>
       </div>
 
     </div>
   </nav>
   <!-- Navbar End -->
+
+
+  
